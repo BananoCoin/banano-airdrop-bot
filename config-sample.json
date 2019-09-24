@@ -1,0 +1,20 @@
+{
+  "airdrop": {
+    "bananos": 100
+  },
+  "db": {
+    "dbAutosaveInterval": 5000,
+    "dbBackupFileMaxCount": 5,
+    "dbBackupFileName": "./backup/db.json",
+    "dbFileName": "./data/db.json"
+  },
+  "server": {
+    "guildId": "",
+    "token": ""
+  },
+  "wallets": {
+    "serverRepresentative": "",
+    "bananodeUrl": "",
+    "serverSeed": ""
+  }
+}

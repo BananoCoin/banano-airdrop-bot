@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app/scripts/main"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bananojs": "github:coranos/bananojs",
+    "discord.js": "^11.4.2",
+    "emoji.json": "^11.0.1",
+    "lokijs": "^1.5.6"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "nyc": "^14.1.1"
+  },
+  "description": ""
+}
